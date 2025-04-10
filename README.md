@@ -34,7 +34,7 @@ Ensure that you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shaikatahmed78/taskmate-server.git
+   git clone https://github.com/Md-Mueid-Mia/PlanFushion-Backend.git
    cd taskmate-server
    ```
 
